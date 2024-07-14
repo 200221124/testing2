@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUFQuEvB8t8=",
+  "success": true,
+  "projectFilePath": "F:\\freelancer\\versao3\\iWebITKiosk\\iWebITKiosk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bitop\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0-preview.6.24327.7\\microsoft.net.illink.tasks.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "C:\\Users\\bitop\\.nuget\\packages\\microsoft.web.webview2\\1.0.2592.51\\microsoft.web.webview2.1.0.2592.51.nupkg.sha512",
+    "C:\\Users\\bitop\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bitop\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0-preview.6.24327.7\\microsoft.netcore.app.runtime.win-x64.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "C:\\Users\\bitop\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0-preview.6.24327.6\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0-preview.6.24327.6.nupkg.sha512",
+    "C:\\Users\\bitop\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0-preview.6.24328.4\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0-preview.6.24328.4.nupkg.sha512"
+  ],
+  "logs": []
+}

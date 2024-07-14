@@ -1,0 +1,10 @@
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\iWebITKiosk.pdb
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\runtimes\win-x64\native\WebView2Loader.dll
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\config.json
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\Resources\logoApp.ico
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\PenImc_cor3.dll
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\vcruntime140_cor3.dll
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\wpfgfx_cor3.dll
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\WebView2Loader.dll
+F:\freelancer\versao3\iWebITKiosk\bin\Release\net9.0-windows\win-x64\publish\iWebITKiosk.exe

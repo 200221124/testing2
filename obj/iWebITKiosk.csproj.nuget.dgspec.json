@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\freelancer\\versao3\\iWebITKiosk\\iWebITKiosk.csproj": {}
+  },
+  "projects": {
+    "F:\\freelancer\\versao3\\iWebITKiosk\\iWebITKiosk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\freelancer\\versao3\\iWebITKiosk\\iWebITKiosk.csproj",
+        "projectName": "iWebITKiosk",
+        "projectPath": "F:\\freelancer\\versao3\\iWebITKiosk\\iWebITKiosk.csproj",
+        "packagesPath": "C:\\Users\\bitop\\.nuget\\packages\\",
+        "outputPath": "F:\\freelancer\\versao3\\iWebITKiosk\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bitop\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.6.24327.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.2592.51, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.0-preview.6.24328.4, 9.0.0-preview.6.24328.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.0-preview.6.24327.7, 9.0.0-preview.6.24327.7]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.0-preview.6.24327.6, 9.0.0-preview.6.24327.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
